@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="static.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="6fcb43823fa8700a9b405f5d6160e4e4_w200_gif0000" x="0" y="0" width="1061" height="613"/>
+	<SubTexture name="6fcb43823fa8700a9b405f5d6160e4e4_w200_gif0001" x="1061" y="0" width="1061" height="613"/>
+	<SubTexture name="6fcb43823fa8700a9b405f5d6160e4e4_w200_gif0002" x="2122" y="0" width="1061" height="613"/>
+	<SubTexture name="6fcb43823fa8700a9b405f5d6160e4e4_w200_gif0003" x="0" y="613" width="1061" height="613"/>
+	<SubTexture name="6fcb43823fa8700a9b405f5d6160e4e4_w200_gif0004" x="1061" y="613" width="1061" height="613"/>
+	<SubTexture name="6fcb43823fa8700a9b405f5d6160e4e4_w200_gif0005" x="2122" y="613" width="1061" height="613"/>
+	<SubTexture name="6fcb43823fa8700a9b405f5d6160e4e4_w200_gif0006" x="0" y="1226" width="1061" height="613"/>
+	<SubTexture name="6fcb43823fa8700a9b405f5d6160e4e4_w200_gif0007" x="1061" y="1226" width="1061" height="613"/>
+</TextureAtlas>
