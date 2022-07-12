@@ -1,0 +1,4 @@
+camera boppie
+
+Value 1: number of bop
+Value 2: the Zoom Value
